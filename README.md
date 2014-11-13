@@ -1,4 +1,6 @@
 OSM-Test
 ========
 
-testing upload of building footprints
+Testing upload of building footprints.
+
+City of Norfolk Building Footprints with Addresses and Place Names where available.  Formatted OpenStreetMap (OSM) tags for building type.
